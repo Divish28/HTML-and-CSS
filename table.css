@@ -1,0 +1,31 @@
+tr{
+    border: 1px solid;
+}
+thead{
+    font-style: italic;
+}
+table,th,td{
+    align-items: center;
+    margin-left: 38%;
+    border: 40px;
+    width: 100px;
+    border: 1px solid;
+    padding: 30px;
+    border-collapse: collapse;
+}
+h1{
+    text-align: center;
+}
+.description-table{
+    align-items: center;
+    text-align: center;
+    background-color: beige;
+}
+dt{
+    font-style:italic;
+    font-size:larger;
+    display: inline-table;
+}
+.normal-table{
+    background-color: lightblue;
+}
